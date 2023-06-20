@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá pessoal!👋
 
-<!--
-**GianfrancoLeli/GianfrancoLeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Sobre mim
+Sou um desenvolvedor front-end jr com 2 anos de experiência na área.
 
-Here are some ideas to get you started:
+### Detalhes 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianfrancoLeli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
